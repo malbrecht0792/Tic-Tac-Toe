@@ -1,3 +1,5 @@
+<h1>Tic-Tac-Toe</h1>
+
 This project features a tic tac toe game in the command line that uses the concepts of object oriented programming
 
 - The full project details can be found here:
