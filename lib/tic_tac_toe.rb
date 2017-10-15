@@ -120,6 +120,6 @@ class Board
 	end
 end
 
-my_game = Game.new("Marcel", "Ben")
+#my_game = Game.new("Marcel", "Ben")
 
 
